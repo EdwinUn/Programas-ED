@@ -1,40 +1,29 @@
-📊 Ventas Mensuales por Departamento (Java & Python)
-📌 Descripción
+# Estructura de Datos
 
-Programa que usa un arreglo bidimensional (12 x 3) para almacenar las ventas mensuales de una tienda en tres departamentos:
+Este repositorio contiene los ejercicios, prácticas y proyectos realizados durante el curso de **Estructura de Datos**. El objetivo es documentar mi proceso de aprendizaje y mantener organizados los distintos trabajos desarrollados a lo largo de la materia.
 
-Ropa
+## Contenido
 
-Deportes
+El repositorio se irá actualizando conforme avance el curso. Aquí se incluirán implementaciones y ejemplos relacionados con diferentes estructuras y conceptos, como por ejemplo:
 
-Juguetería
+- Arreglos
+- Listas
+- Pilas
+- Colas
+- Árboles
+- Algoritmos de búsqueda y ordenamiento
+- Otros ejercicios prácticos relacionados con la materia
 
-Las filas representan los meses y las columnas los departamentos.
+Cada carpeta o archivo corresponde a una práctica, ejercicio o implementación específica.
 
-⚙️ Funcionalidades
+## Propósito
 
-El sistema incluye tres métodos principales:
+Este repositorio funciona como:
 
-Insertar ventas: Guarda la cantidad de ventas de un departamento en un mes específico.
+- Registro de aprendizaje durante el curso
+- Espacio para organizar y conservar los trabajos realizados
+- Referencia futura para repasar conceptos de estructuras de datos
 
-Buscar ventas: Consulta las ventas registradas para un mes y departamento.
+## Notas
 
-Eliminar ventas: Borra una venta registrada (reinicia el valor a 0).
-
-🧠 Objetivo
-
-Practicar el uso de:
-
-Arreglos bidimensionales
-
-Métodos
-
-Acceso y manipulación de datos por índice
-
-💻 Lenguajes
-
-Java
-
-Python
-
-Ambas versiones realizan las mismas operaciones con la matriz.
+Los programas y ejemplos aquí incluidos fueron desarrollados con fines educativos.
