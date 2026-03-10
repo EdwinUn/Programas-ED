@@ -57,7 +57,7 @@ class SimuladorPila:
             self.pila.append(elemento)
             self.entrada_elemento.delete(0, tk.END)
             self.dibujar_pila()
-
+e
     def pop(self):
         if len(self.pila) == 0:
             messagebox.showerror("Error: Underflow", "La PILA ESTÁ VACÍA. No hay nada que quitar.")
