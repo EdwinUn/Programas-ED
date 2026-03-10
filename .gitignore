@@ -8,7 +8,6 @@ __pycache__/
 # =========================
 # 2. Entornos Virtuales
 # =========================
-# Si usas un entorno virtual (muy recomendado), Git no debe rastrear todos esos megabytes de librerías.
 venv/
 env/
 .venv/
@@ -16,14 +15,12 @@ env/
 # =========================
 # 3. Archivos de Base de Datos
 # =========================
-# ¡MUY IMPORTANTE! No subas tu base de datos local. 
-# Si la subes, cada vez que agregues un vehículo de prueba, Git detectará un cambio en el archivo binario y tu historial se hará gigante y pesado.
 database/infracciones.db
 *.db
 *.sqlite3
 
 # =========================
-# 4. Configuraciones de tu Editor (VS Code)
+# 4. Configuraciones
 # =========================
 .vscode/
 
@@ -33,6 +30,3 @@ database/infracciones.db
 Thumbs.db
 .DS_Store
 
-# archivo temporal para inicio de sesion
-crear_admin.py
-crear_agente.py
