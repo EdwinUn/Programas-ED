@@ -1,3 +1,8 @@
+"""
+Utilizando la clase Cola, escriba una función llamada que reciba 2 Colas con números  
+enteros y devuelva una nueva Cola con sus elementos sumados uno a uno.  
+"""
+
 # ── frontend/cola_frontend.py ────────────────────────────────────
 import tkinter as tk
 from tkinter import ttk, messagebox
