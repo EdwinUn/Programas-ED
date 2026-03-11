@@ -1,3 +1,6 @@
+"""
+Edwin Geovanni Un Uicab Grupo 3SA
+"""
 import os
 import time
 
@@ -183,7 +186,7 @@ def modo_manual():
         # Victoria
         if pilas[2].tamanio() == N_DISCOS:
             extra = f"  {GR}¡En el mínimo posible! 🏆{R}" if contador == total else ""
-            print(f"  {GR}{B}🎉 ¡Ganaste!{R}  Usaste {YL}{contador}{R} movimientos.{extra}\n")
+            print(f"  {GR}{B} ¡Ganaste!{R}  Usaste {YL}{contador}{R} movimientos.{extra}\n")
             pausa("  Presiona Enter para volver al menú...")
             return
 

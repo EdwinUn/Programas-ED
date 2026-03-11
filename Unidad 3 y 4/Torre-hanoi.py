@@ -1,5 +1,5 @@
 """
-TORRE DE HANOI - Programa completo con interfaz Tkinter
+TORRE DE HANOI
 =======================================================
 MÉTODOS (12 en total):
   Clase HanoiApp:
